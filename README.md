@@ -17,7 +17,7 @@
  <br>
 
 ## 🚀 Como acessar o projeto:
-[Clique aqui para acessar](https://anafts.github.io/TinDog/)
+Para acessar o link do projeto [clique aqui](https://anafts.github.io/TinDog/)
 
 <br>
 
