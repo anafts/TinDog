@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/TinDog?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/TinDog?style=for-the-badge)
 
-![preview](./.github/preview.png) 
+![anafts github io_TinDog_](https://user-images.githubusercontent.com/106173948/192039600-e23ecf53-5dfd-489c-a620-c634a7c46b38.png)
 
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
